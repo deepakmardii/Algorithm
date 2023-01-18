@@ -9,3 +9,4 @@ function fact(n){
 console.log(fact(2))
 console.log(fact(4))
 console.log(fact(5))
+// O(n)

@@ -19,4 +19,4 @@ function bs(arr, target){
 console.log(bs([-5,2,4,6,10],10))
 console.log(bs([-5,2,4,6,10],6))
 console.log(bs([-5,2,4,6,10],20))
-// log(n)
+// log (n)
