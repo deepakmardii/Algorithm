@@ -16,3 +16,4 @@ function bs(arr) {
 const arr = [8, 20, -2, 4, -6]
 bs(arr)
 console.log(arr)
+// log(n)
